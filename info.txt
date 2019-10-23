@@ -1,0 +1,11 @@
+muestravehículo.php    -- muestra la tabla de vehículos.
+inserciones.php  -- inserta unos vehículos para no insertarlos a mano.
+modificar.php -- es un php que no hice donde iría modificar.
+bajavehículo.php -- recibe los datos de muestravehículo y elimina de la base de datos.
+conexion.php -- datos de conexion
+
+botonera agregar y validaciones
+agregar funcioones   
+
+
+agregar.php es la version nueva de  prueba2.php / esta comprueba si ya existe el registro
